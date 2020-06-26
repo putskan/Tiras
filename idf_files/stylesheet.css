@@ -37,3 +37,9 @@ p {
 .bottomNote {
 	padding-top: 30px;
 }
+
+.apk-div {
+    background-color: white;
+    border-radius: 100%;
+    padding: 20px;
+}
